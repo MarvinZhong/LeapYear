@@ -1,5 +1,3 @@
-#學號: 107213067
-#姓名: 鍾明智
 def leapYear(year):
     if year % 400 == 0: 
         return 'increased pay' #if input divided until zero, it's Leap Year, if else next down
